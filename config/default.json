@@ -1,0 +1,5 @@
+ {
+    "mongoURI": "mongodb+srv://nihaldevadiga:Nihal@123@cluster0.kf7gmkl.mongodb.net/",
+    "jwtSecret": "secret",
+    "githubToken": "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"
+  }
